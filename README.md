@@ -1,13 +1,11 @@
-# Priyom-codes-prakriti
-This is my first Git Repository.
-<html>
-  <head>
-    <title></title>
-    
-  </head>
-  <body>
-    <h1>priyom></h1>
-    <br>
-    <h5>priyom</h5>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>priyom</h1>
+</body>
 </html>
